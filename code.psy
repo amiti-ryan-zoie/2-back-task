@@ -153,7 +153,7 @@ block training
   tasklist
     twoback 25
   end
-  part myfeedback
+  #part myfeedback
 
 block nback_real1
   set &trialcount 0 # make sure you use this again if you have another block
@@ -161,7 +161,7 @@ block nback_real1
   tasklist
     twoback 25
   end
-  part myfeedback
+  #part myfeedback
 
 block nback_real2
   set &trialcount 0 # make sure you use this again if you have another block
@@ -169,4 +169,4 @@ block nback_real2
   tasklist
     twoback 25
   end
-  part myfeedback
+  #part myfeedback
